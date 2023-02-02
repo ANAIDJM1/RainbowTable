@@ -55,7 +55,6 @@ if __name__ == '__main__':
         password=varb
 
     print("Listo tabla Rainbow\n")
-
     hasabuscar='dcb6e421398149b95a024de987d335f0'
     print("Buscar hash: "+ hasabuscar)
     comparahash(hasabuscar)
